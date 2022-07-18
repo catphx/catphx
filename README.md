@@ -1,16 +1,14 @@
-### Hi there 👋
+## Welcome to my Profile!
 
-<!--
-**catphx/catphx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+<a href="https://github.com/catvirt/catvirt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=catvirt&theme=onedark&layout=compact"/>
+</a>
+&nbsp;
+<a href="https://github.com/catvirt/catvirt">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catvirt&theme=onedark&layout=default"/>
+</a>
+<br>
+<a href="https://github.com/catvirt/catvirt">
+    <img align="center" src="https://komarev.com/ghpvc/?username=catvirt&color=DF6D74&style=plastic&label=Profile Views"/>
+</a>
